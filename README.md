@@ -23,7 +23,7 @@
 ### Main skills:
 ![Dart](https://img.shields.io/badge/-DART-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=C#&logoColor=purple&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=cSharp&logoColor=purple&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
